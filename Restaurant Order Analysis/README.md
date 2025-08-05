@@ -3,9 +3,13 @@ RESTAURANT OPERATIONS ANALYSIS
 
 
 THE SITUATION
+
+
 You've just been hired as a Data Analyst for the Taste of the World Café, a restaurant that has diverse menu offerings and serves generous portions
 
 THE TASK
+
+
 The Taste of the World Café debuted a new menu at the start of the year You've been asked to dig into the customer data to see which menu items are doing well / not well and what the top customers seem to like best
 
 THE OBJECTIVES
