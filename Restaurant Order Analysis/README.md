@@ -1,5 +1,7 @@
 
 RESTAURANT OPERATIONS ANALYSIS
+
+
 THE SITUATION
 You've just been hired as a Data Analyst for the Taste of the World Café, a restaurant that has diverse menu offerings and serves generous portions
 
